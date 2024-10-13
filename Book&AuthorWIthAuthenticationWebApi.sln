@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Book&AuthorWIthAuthenticationWebApi", "Book&AuthorWIthAuthenticationWebApi.csproj", "{E46D2F54-72D4-4D31-ABE2-08C21462321B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E46D2F54-72D4-4D31-ABE2-08C21462321B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E46D2F54-72D4-4D31-ABE2-08C21462321B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E46D2F54-72D4-4D31-ABE2-08C21462321B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E46D2F54-72D4-4D31-ABE2-08C21462321B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4294CB74-AF26-4E0D-A6CF-F8052EF7D62D}
+	EndGlobalSection
+EndGlobal
